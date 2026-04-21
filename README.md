@@ -1,4 +1,4 @@
-## Hi there 👋 This space in under construction
+## Hi there 👋 
 
 - 🔭 I’m currently working on adopting AI
 - 📫 How to reach me: linkedin.com/in/buonamico/r
